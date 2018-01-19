@@ -1,0 +1,13 @@
+
+내 git 주소
+https://github.com/smboy86/study201801-ReduxCasts.git
+
+강의 참고 git 주소
+https://github.com/StephenGrider/ReduxCasts
+
+
+
+추가 강의 정보 기록
+
+180119 바벨??
+https://babeljs.io/repl
